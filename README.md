@@ -15,8 +15,8 @@ The algorithm relies on the fact that by adding and removing a single score at a
 
 [3] Anthony Hseb, googlesearch, https://github.com/anthonyhseb/googlesearch
 
-[4] Zeynep Yucel, Batch searching/logging in Google news in Japanese, https://github.com/yucelzeynep/Batch-search-in-Google-news-in-Japanese
+[4] Zeynep Yücel, Batch searching/logging in Google news in Japanese, https://github.com/yucelzeynep/Batch-search-in-Google-news-in-Japanese
 
 [5] Wiktionary:Frequency lists https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
 
-[6] Yücel, Zeynep, et al. "An algorithm for automatic collation of vocabulary decks based on word frequency." IEICE Transactions on Information and Systems 103.8 (2020): 1865-1874.
+[6] Zeynep Yücel, et al. "An algorithm for automatic collation of vocabulary decks based on word frequency." IEICE Transactions on Information and Systems 103.8 (2020): 1865-1874.
