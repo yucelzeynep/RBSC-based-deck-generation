@@ -19,4 +19,4 @@ The algorithm relies on the fact that by adding and removing a single score at a
 
 [5] Wiktionary: Frequency lists, https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
 
-[6] Zeynep Yücel, et al. "An algorithm for automatic collation of vocabulary decks based on word frequency." IEICE Transactions on Information and Systems 103.8 (2020): 1865-1874.
+[6] Zeynep Yücel et al. "An algorithm for automatic collation of vocabulary decks based on word frequency." IEICE Transactions on Information and Systems 103.8 (2020): 1865-1874.
