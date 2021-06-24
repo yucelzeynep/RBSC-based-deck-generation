@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon May 24 16:47:48 2021
+
+@author: zeynep
+"""
+
+LEN_BIG_LIST = 100
+LEN_SMALL_LIST = 10
+RHO_STAR = 0.8
+EPS = 0.05
+
+NMAX_UPDATE_2LISTS_AT_ONCE = 50
+NMAX_PICK_SINGLE_ELEMENT_TO_ADD = 100
+NMAX_PICK_SINGLE_ELEMENT_TO_REM = 100
+
+NMAX_PICK_SCORE = 100
+NMAX_UPDATE = 100
